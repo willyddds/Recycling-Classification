@@ -1,1 +1,1 @@
-# Recycling-Classification
+# Automatic Resource Recycling Classification System
