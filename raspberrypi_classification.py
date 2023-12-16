@@ -30,8 +30,8 @@ while True:
     # 使用分類器對裁切後的區域進行分類
     pd = cr.getPrediction(cropped_frame)
     
-    V = int(pd[1])
-    print(V)
+    V = int(pd[1])#分類結果
+    print(V) 
     if not isArmMoving:
         arduino.write(str(V).encode())
     
