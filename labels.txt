@@ -1,0 +1,4 @@
+0 Metal
+1 PG
+2 Paper
+3 BG
